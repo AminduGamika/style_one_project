@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "280018152885",
+    "project_id": "style-one-18336",
+    "storage_bucket": "style-one-18336.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280018152885:android:564d8fd384dd0460147dfc",
+        "android_client_info": {
+          "package_name": "com.styleone.style_one"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280018152885-85o25b47u4q8e4hmbe3gm6c5n7g9utq3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.styleone.style_one",
+            "certificate_hash": "15fb7aba8eb48871a8e43223dee0d8fcfd336d91"
+          }
+        },
+        {
+          "client_id": "280018152885-8dl8rjhsg8fbofqt7ajnhv87i78salu8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgHp58rzHsPyGfOnxRq_WhkyTl_0CZuuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280018152885-8dl8rjhsg8fbofqt7ajnhv87i78salu8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "280018152885-57e89odqpm6r8hkaks57531aie97c0c5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.styleone.styleOne"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
